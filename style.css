@@ -25,10 +25,10 @@ body{
     grid-column-gap: 80px;
     margin: 50px;
 }
-.footer-top-left{
+/* .footer-top-left{
     display: flex;
     flex-direction: column;
-}
+} */
 .top-left-part1{
     display: flex;
     justify-content: space-between;
@@ -51,11 +51,11 @@ body{
     color: white;
     padding: 5px 20px;
 }
-.top-left-part3{
+/* .top-left-part3{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
+} */
 .top-left-part3 div{
     display: flex;
     justify-content: space-between;
